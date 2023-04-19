@@ -78,3 +78,17 @@ footer{
     }
     
 }
+
+@media (min-width: 991px) and (max-width:1398px){
+    .visual img{
+        position: relative;
+        left: 89px;
+    }
+}
+
+@media (min-width: 1620px){
+    .visual img{
+        position: relative;
+        left: 370px;
+    }
+}
